@@ -1,0 +1,256 @@
+
+Locations where from Data Not Received
+
+SI-31    NR-3863-A    .3636     C	 400kV Fatehpur-PG(Kanpur) at Singrauli STPS (NP-5052-A rep on ..1119)
+SI-36    NR-4493-A               M	 33KV Singrauli STPS at Singrauli Hydro
+RI-05    NP-1283-A              M	 132 kV V'chal/Singrauli at Rihand STPS 
+AU-31    NR-8128-A    .3636     L	400kV Agra-1 at Auraiya CCPP (NP-7760-A rep on 250919)
+DL-75    NP-8079-A    .3636     M	400kV Harsh Vihar(Loni)-1 at Dadri
+DL-76    NP-8081-A    .3636     c	400kV Harsh Vihar(Loni)-1 at Dadri
+DA-39    NP-1186-A    .3636     L	400kV Malerkotla at Dadri-NTPC
+DA-51    NT-0011-A    .3636	  C	(Orig No.01955848) 400kV Malerkotla at Dadri, NTPC
+DA-56    NP-1193-A                S	6.6kV HVDC-2(aux) at Dadri-NTPC(from Gas)
+TA-03    NR-4366-A    .3636     S	ICT-2 (400 kV) at Tanda Stage-2
+TA-04    NR-4364-A              M	ICT-2 (220 kV) at Tanda Stage-2
+TA-09    NR-4372-A    .3636     M	400 kV Basti-1 at Tanda Stage-2
+TA-10    NR-4373-A    .3636     C	400 kV Basti-1 at Tanda Stage-2
+TA-11    NR-4362-A    .3636     M	400 kV Basti-2 at Tanda Stage-2
+TA-12    NR------A    .3636     C	400 kV Basti-2 at Tanda Stage-2
+TA-14    NR-4369-A    .3636     S	HV Side of GT-6 at Tanda Stage-2
+DL-35    NP-1124-A              M	220kV TBC at BTPS 
+BS-11    NP-8599-A              C	220kV Pong at Bairasiul HPS
+BS-12    NP-1577-A              C	220kV Jessore at Bairasiul HPS (NP-1579-A rep on 140719)
+BS-21    NP-1015-B               S	Genr-1 (11kV) at Bairasiul HPS
+CM-30    NP-1837-A              M	220kV Chamba-PG-2 at Chamera-3 HPS
+CM-31    NR-3409-A              C	220kV Chamba-PG-2 at Chamera-3 HPS
+PT-15    NR-3465-A    .3636     M	400kV Banala (PG) at Parbati-II HPS (CT RATIO CHANGED FROM 3150 TO 1600 AT 18:00 ON 260919)
+PT-16    NR-3449-A    .3636     C	400kV Banala (PG) at Parbati-II HPS (NR-3468-A rep on 240119)
+PT-17    NR-3464-A    .3636     M	400kV Sainj HEP at Parbati-II HPS(LILO of Parbati-II & Parbati-III at Sainj HEP on 22.05.17/meter replaced on 190817)
+PT-18    NR-3363-A    .3636     C	400kV Sainj HEP at Parbati-II HPS (CT RATIO CHANGED FROM 3150 TO 1600 AT 18:00 ON 260919)
+PT-19    NR-3238-A    .3636     S	Genr-1 (400kV) at Parbati-II HPS
+PT-20    NR-3525-A    .3636     S	Genr-2 (400kV) at Parbati-II HPS 
+PT-21    NR-3466-A    .3636     S	Genr-3 (400kV) at Parbati-II HPS
+PT-22    NR-3451-A    .3636     S	Genr-4 (400kV) at Parbati-II HPS(installed on 240119)
+DG-11    NP------A              C	GT-1 (220kV) at Dhauliganga HPS(check set removed NP-1181-A on 04-05-2014)
+DG-12    NP------A              C	GT-2 (220kV) at Dhauliganga HPS(check set removed NP-1219-A on 04-05-2014)
+DG-13    NP------A              C	GT-3 (220kV) at Dhauliganga HPS(check set removed NP-1218-A on 04-05-2014)
+DG-14    NP------A              C	GT-4 (220kV) at Dhauliganga HPS(check set removed NP-1210-A on 04-05-2014)
+KG-09    NR-3258-A              S     GT-1 (220kV) at Kishenganga HEP
+SW-25    NP-8584-A               M	33 kV SEWA-III(J&K PDD) at SEWA-II
+RA-06    NP-1069-B              M	132kV Gandhi Sagar at RAPS-A
+PG-58    NR-4390-A    .3636	  S	TEHRI-III AT KOTESSHWAR POOLING(PG)
+NG-75    NR-3640-A    .5454	  S	MEERUT-II AT KOTESSHWAR POOLING(PG)
+PG-50    NR-3641-A    .5454	  L	765 KV ICT-1 AT KOTESSHWAR POOLING(PG)
+PG-52    NR-3633-A    .5454	  L	765 KV ICT-2 AT KOTESSHWAR POOLING(PG)
+PG-54    NP-3635-A    .5454	  L	765 KV ICT-3 AT KOTESSHWAR POOLING(PG)
+PG-55    NP-3634-A    .3636	  L	400 KV ICT-3 AT KOTESSHWAR POOLING(PG)
+PG-57    NR-3336-A    .3636	  L	400 KV ICT-4 AT KOTESSHWAR POOLING(PG)
+BH-03    NP-1374-A              M	GT-3(220 kV) at Bhakra Left Bank
+BH-33    NP-3094-A              C	GT-3(220 kV) at Bhakra Left Bank
+HP-18    NP-1609-A              M	220 kV Kangu at Dehar HPS 
+PN-23    NP-1636-A              S	220 kV Jessore at Pong HPS
+BB-02    NP-7076-A              M	220kV Panipat(T)-2 at Panipat-BBMB
+HP-29    NP------A              S	132kV Giri at Jagadhari-BBMB
+BB-44    NR-3651-A              M	220kV Bhiwani(HVPN)-1 at Bhiwani-BBMB
+BB-45    NR-3582-A              M	220kV Bhiwani(HVPN)-2 at Bhiwani-BBMB
+BB-46    NR-3647-A    .3636     S	400kV Bhiwani-PG(Mahendragarh) at Bhiwani-BBMB
+BB-79    NR-3650-A    .3636     S	400kV Rajpura-PSPCL at Bhiwani-BBMB 
+PU-26    NP-1679-A               S	220/66kV ICT-2(66kV) at Sangrur-BBMB 
+CH-19    NP-1426-A               S	66kV Pinjore-1 at Kishangarh Chandigarh-BBMB
+CH-20    NP-1427-A               S	66kV Pinjore-2/Mansadevi at IT Park Chandigarh-BBMB
+UP-02    NR-4527-A              M	220kV Gazipur-DTL at Sahibabad-UPPCL(Earlier it was Patparganj-DTL)NP-1175-A replaced on 190318
+UP-04    NP-1136-A              S	220kV Noida Sec-20 at Sec-38 Noida-UPPCL
+UP-05    NP------A              M	220kV Sahibabad at Noida-UPPCL
+UQ-26    NP-5183-A              M	220kV Gazipur(DTL) at Sec-62 Noida-UPPCL
+UP-86    NP------A    .3636     S    400/220 kV ICT-1(400 kV side) at Greater Noida-UPPCL
+UP-87    NP------A              S    400/220 kV ICT-1(220 kV side) at Greater Noida-UPPCL
+UQ-04    NP------A    .3636     S    400/220 kV ICT-2(400 kV side) at Greater Noida-UPPCL
+UQ-15    NP------A              S    400/220 kV ICT-2(220 kV side) at Greater Noida-UPPCL
+UQ-29    NP------A    .3636     S    400/220 kV ICT-3(400 kV side) at Greater Noida-UPPCL
+UQ-30    NP------A    	  S    400/220 kV ICT-3(220 kV side) at Greater Noida-UPPCL
+UQ-46    NP------A    .3636     S    400/220(500MVA) kV ICT-4(400 kV side) at Greater Noida-UPPCL
+UQ-47    NP------A    	  S    400/220(500MVA) kV ICT-4(220 kV side) at Greater Noida-UPPCL
+UP-12    NP-1897-A              M	132kV Roorkee-1(Lx.Mill) at Gagalheri (pre Saharanpur)-UPPCL 
+UP-16    NP------A              M	132kV Kichcha at Dohna-UPPCL
+UP-17    NP------A              M	132kV Kalagarh-1 at Nehtaur-UPPCL (Lilo at Afzalgarh on 20.01.14)
+UP-22    NP-1794-A              M	132kV LakSar at Nehtaur-UPPCL 
+UP-32    NP-1532-A              M	132kV Morwa at Anpara-UPPCL 
+UQ-31    NP-6668-A              M	132kV Rajghat at Lalitpur-UPPCL
+UP-20    NP------A    .3636     M	400 kV sasaram at Sarnath-UPPCL(Now Varanasi-Sasaram)
+UP-21    NP------A    .3636     M	400 kV Varanasi at Sarnath-UPPCL(400 Alhd-Sarnath LILO at Varanasi)(Now Varanasi-Sasaram)
+RJ-55    NP------B              M	220kV Bassi at 220kV Heerapura-RVPNL(Ckt. was LILO at Indragandhinagar)
+RJ-09    NP-8193-A              M	220kV Agra-PG at Bharatpur-RVPNL (LILO of Sikandara- Bharatpur at Agra-PG)
+RJ-11    NP------A              M	220kV BTPS at Alwar-RVPNL
+RJ-21    NP-1072-B              M	132 kV Gandhi Sagar at RPSHEP-RVPNL
+RJ-34    NP------B              M	132kV Sheopur at Sawaimadhopur-RVPNL
+RJ-35    NP-1064-B              M	132kV aux. B/C at Sawaimadhopur-RVPNL
+RH-01    NP------A    .3636     S	400 kV Bassi-PG at Kawai TPS-RVPNL 
+RH-02    NP------A    .3636     S	400 kV Bassi-PG at Kalisindh STPS-RVPNL
+NB-01    NR-4473-A    .5454     L	765 kV Chittorgarh(PG)-I at Ajmer-PG(Sync on 25.12.2017)(NR-4475-A replaced on 17.12.2018)
+NY-20    NR-3730-A    .5454     L     765 kV Jhatikra at Kanpur(GIS)PG (NP-8130-A rep on 291119 & NR-3728-A  rep on 121219)
+PG-27    NP------A    .3636     S	ICT-1 (400 kV) at Bassi-PG
+PG-28    NP------A    .3636     S	ICT-2 (400 kV) at Bassi-PG
+NU-17    NP------A    .3636     S	ICT-3 (400 kV) at Bassi-PG
+NB-65    NP-8289-A    .3636     s	RAP-7&8 at Jaipur South-PG
+NG-06    NP------A    .3636     L     400 kV Bassi-2 at Agra-PG
+NU-42    NP-8134-A    .3636     M     800KV HVDC-Pole-I(BNC) at Agra-PG
+NG-79    NP------A    .3636     S     BARH(ER-NTPC)-1 AT Balia-PG(Ckt connected to Patna)
+NG-80    NP------A    .3636     S     BARH(ER-NTPC)-2 AT Balia-PG(Ckt connected to Patna)
+NG-87    NP------A    .3636     S     400kV Sasaram(ER) at Balia-PG
+NR-18    NP-1542-A    .3636     L	400 kV Dipalpur(HVPN)(Bawana-2) at Abdullapur-PG
+HY-17    NP-7136-A    .3636     M	400 kV Abdullapur-PG at Dipalpur-HVPNL
+HY-18    NP-7505-A    .3636     M	400 kV Bawana(DTL) at Dipalpur-HVPNL
+RJ-49    NR------A              S	ICT-2 (220 kV) at Sikar-PG(NR-3968-A replaced on 200220)
+HR-74    NP------A              S	ICT-3 (220 kV) at Hissar-PG
+NR-19    NP-1337-A    .3636     L	400 kV Bhiwani-PG-I at Hissar-PG
+NR-21    NP------A    .3636     L	400 kV KAITHAL at Hissar-PG 
+NR-29    NP-1748-A              M	220 kV Ramban at Kishenpur-PG
+NS-69    NP-7775-A    .3636     L	400 kV Bareilly-1 at Meerut-PG
+NL-83    NP-8020-A    .5454     L     765KV/400kV (HV Side)ICT-3 at Meerut-PG
+NG-21    NP-8002-A    .3636     S	400kV UPPCL Bareily-1 at PG Bareily(NP-5326-A replaced on 19.01.20)
+NG-61    NP-6591-A    .3636	  L	400kV Gorakhpur-3 at Lucknow-PG
+NY-85    NR-3624-A    .3636	  L	400kV Kanpur-2 at Lucknow-PG
+NG-20    NP-5356-A    .3636	  S	400kV Rosa TPS(pre Bareily-1) at Lucknow-PG
+NB-66    NR-3659-A    .3636	  L	400kV/38.5 kv Coupling Tarnsformer Statcom at Lucknow-PG
+UQ-62    NR------A    	  S	220 kV Barabanki-UP-1 at Sohwal-PG (meter removed in Nov-19)
+UQ-63    NR------A    	  S	220 kV Barabanki-UP-2 at Sohwal-PG (meter removed in Nov-19)
+NG-63    NP-6698-A    .3636	  L	400kV Lucknow(PG)-3 at Gorakhpur-PG
+NU-30    NP-8304-A    .3636	  S	400kV Motihari-2 at Gorakhpur-PG(Gkp-Barh-2 LILO at Motihari)(From 30.01.2020 ckt is Grk-Barh)
+NG-85    NP------A    .3636     L	400kV Nimrana-I at Bhiwadi (PG) 
+NR-73    NR-3747-A    .3636     L	400 kV Ballabgarh-2 at Mainpuri-PG (NP-1216-A rep on 170819)
+NY-67    NR-3523-A    .3636     L	400kV Dadri-PG at Kaithal-PG(400kV Dadri-Mlrktla LILO at Kaithal)
+NU-58    NP-7742-A    .3636     S 	400kV Kashipur-I Roorkee-PG
+RT-15    NP-6607-A    .3636     L	400 kV Jaipur at Kota-PG
+NS-15    NP-7145-A              S     220 KV Chamera-(3)-2 at Chamba-PG 
+NU-69    NP-8017-A    .3636     L	400 kV Kaithal-I at Baghpat PG
+NB-19    NR-3602-A    .5454     L	765 kV Kanpur-I  at Aligarh-PG
+PG-26    NR-3760-A    .5454     L	765 KV Moga-2 at Bikaner-PG
+GP-20    NR-3772-A              S	220 kV ICT-2  at  Sohna-Sterlite
+GP-23    NR-3769-A               L	33kV Tertiary at Sohna-Sterlite     
+CH-17    NP------A      	  S	66 kV Mohali-1 at Chandigarh UT-Sec.52 (Meter NP-1408-A is replaced on 180619)
+DL-11    NP-1169-A    .3636     S	ICT-1 (400 kV) at Bawana-DTL (not available physically at site)
+DL-17    NP------A    .3636     S	ICT-4 (400 kV) at Bawana-DTL
+DL-12    NP-1740-A              S	ICT-1 (220 kV) at Bawana-DTL (not available physically at site)
+DL-18    NP------A              S	ICT-4 (220 kV) at Bawana-DTL(NP-3026-A removed)
+DL-44    NP------A    .3636     L	400 kV Bahadurgarh at Bawana-DTL
+DL-69    NP------A    .3636     M	400 kV Mohindragrah(HVPN)(Hissar- line LILO) at Bawana-DTL(Drawl point shifted to Bawana-PPCL-III on29.10.2012)
+DL-36    NP-8014-A              M	220 kV Sahibabad-UPPCL at Ghazipur-DTL(Earlier it was Sahibabad-Patparganj)(CT Ratio changed from 600 to 800 upon shifting to Ghazipur)
+DL-38    NP-3026-A              M	220 kV Sec 62 Noida-UPPCL at Ghazipur-DTL
+DL-39    NP-7753-A              M	220 kV Noida sec-20 at Ghazipur-DTL (220 kV BTPS at Ghazipur-DTL LILO at Sec-20 Noida on 080819)
+IG-02    NP------A    .3636     C	400kV  Jhajaar-I at Mundka - DTL(meter NP-6813-A has been shifted)
+IG-04    NP------A    .3636     C	400kV  Jhajaar-II at Mundka - DTL (meter NP-6814-A has been shifted)
+DL-73    NP-5182-A    .3636     S	400kV  Dadri-1 at Harsh Vihar(Loni)-DTL
+HP-26    NP-1407-A              M	220 kV Kunihar at Pinjore-HVPN (Kunihar -Panchkula lilo at pinjore hvpn from 140718)
+HR-28    NR-3830-A              S	220 kV Hissar(BBMB) at Hissar IA-1-HVPN (NP-5425-A replaced on 12.10.2018)
+HR-30    NP-1339-A              S	220 kV Bhiwani -2 at Bhiwani-HVPN
+HR-70    NP------A    .3636     M 	400 kV Hissar at Khedar-HVPN (Hissar-Moga feeder is LILO at Khedar-HVPN)
+HR-71    NP------A    .3636     M 	400 kV Moga at Khedar-HVPN (Hissar-Moga feeder is LILO at Khedar-HVPN)
+HR-67    NP-5459-A    .3636     S	400kV  Fatehabad-2 at Nuhiwali(LILO Khedar) - HVPNL 
+HR-75    NP------A    .3636     S	400kV  Bhiwadi at Jhajaar - HVPNL -main(powerflow started on 11.10.2010)
+HR-76    NP------A    .3636     S	400kV  Bhiwadi at Jhajaar - HVPNL- check (powerflow started on 11.10.2010)
+HY-12    NP------A    .3636     S	400 kV Bawana-PPCL-III at Mahendragarh-HVPNL(5.12.12 ckt-2 charged)
+HY-26    NP-7749-A    .3636     S	ICT-1 (400 kV) at Nawada-HVPN(charged on 11.11.2012)
+HY-27    NP------A              S	ICT-1 (220 kV) at Nawada-HVPN
+HY-28    NP------A    .3636     S	ICT-2 (400 kV) at Nawada-HVPN
+HY-29    NP------A              S	ICT-2 (220 kV) at Nawada-HVPN
+HY-35    NP-8828-A      	  S	220kV Panipat(BBMB)-I at  Chajpur-HVPN
+HY-36    NP-8544-A              S	220kV Panipat(BBMB)-II at Chajpur-HVPN
+HP-06    NP------A               S	33 kV Shanan at Mandi Bijni-HPSEB(Meter NP-1837-A is removed & replaced at Paddhar) 
+HP-36    NP-1603-A               M	33 kV Shanan at Paddhar-HPSEB (NP-7140-A  rep on 131219)
+JK-01    NP------A              L	ICT-1 (220 kV) at Pampore-PDD
+JK-03    NP------A              L	ICT-2 (220 kV) at Pampore-PDD 
+JK-25    NP-3169-A              L	ICT-3 (220 kV) at Pampore-PDD
+JK-02    NP------A              S	ICT-1 (132 kV) at Pampore-PDD
+JK-04    NP-1842-A              S	ICT-2 (132 kV) at Pampore-PDD 
+JK-26    NP-3171-A              S	ICT-3 (132 kV) at Pampore-PDD 
+JK-11    NP-1860-A              M	ICT-1 (220 kV) at Udhampur-PDD 
+JK-13    NP-1862-A              M	ICT-2 (220 kV) at Udhampur-PDD 
+JK-12    NP-3161-A              S	ICT-1 (132 kV) at Udhampur-PDD (NP-1861-A rep on 131019) 
+JK-14    NP-1863-A              S	ICT-2 (132 kV) at Udhampur-PDD 
+PU-35    NP-8534-A              S	220 kV Sarna at Udhampur-PDD 
+JK-19    NP-1615-A              M	ICT-2 (220 kV)-400 MVA at Jammu-PDD  (CTR 1200 to 1600 changed on 29.04.2019)
+JK-18    NP-1857-A              S	ICT-1 (132 kV) at Jammu-PDD 
+JK-20    NP-1859-A              S	ICT-2 (132 kV) at Jammu-PDD
+JK-41    NP-6979-A              S	ICT-3 (132 kV) at Jammu-PDD
+JK-21    NP-1851-A              S	ICT-1 ,3*40MVA(220 kV) at Hiranagar-PDD 
+JK-22    NP-1852-A              S	ICT-1 (132 kV) at Hiranagar-PDD
+JK-23    NP-1884-A              S	ICT-2,200MVA (220 kV) at Hiranagar-PDD 
+JK-24    NP-1855-A              S	ICT-2 (132 kV) at Hiranagar-PDD 
+PU-36    NP-1883-A              M	220 kV Sarna at Hiranagar-PDD 
+JK-15    NR-3455-A              S	220 kV RSHEP-1 at Hiranagar-PDD (NP-1853-A replaced on 02.04.18)
+JK-16    NR-3453-A              S	220 kV RSHEP-2 at Hiranagar-PDD (NP-1854-A replaced on 02.04.18)
+JK-38    NP-5467-A              M	132 kV SEWA II CIRCUIT-1 at Mahanpur-PDD
+JK-42    NP-1827-A              M	132 kV Kathua-1 at Mahanpur-PDD(SEWA-KATHUA CKT IS NOW CONNECT AT SEWA-MAHANPUR) 
+JK-44    NR-3531-A              M     220 kV Kishenganga-1 at Amargarh-PDD
+JK-45    NR-3530-A              M     220 kV Kishenganga-2 at Amargarh-PDD
+JK-34    NR-8535-A    .3636     S     400 kV Kishenpur-PG-1 at Baglihar
+JK-35    NP-5478-A    .3636     S     400 kV Kishenpur-PG-2 at Baglihar
+PU-62    NP-1848-A              M	220 kV Mahilpur-1 at Jamsher-PSEB
+PU-88    NP-1847-A              M	220 kV Mahilpur-2 at Jamsher-PSEB
+PS-02    NP-8267-A    .3636     M	400 kV Kurukshetra(PG) at Nakodar-PSEB
+PU-99    NP-8823-A    .3636     S	400 kV Moga(PG) at Talwandi-PSEB
+UA-05    NP-1073-B                M	Genr-2(6.6kV) at Kulhal HPS-UPCL 
+UA-20    NP-1065-B               M	Genr-2(11kV) at Khodri HPS-UPCL  
+UA-21    NP-1039-B               M	Genr-3(11kV) at Khodri HPS-UPCL  
+UA-22    NP-1040-B               M	Genr-4(11kV) at Khodri HPS-UPCL  
+UA-27    NP-1793-A              M	132kV Pilibhit at Khatima-UPCL
+UA-31    NR-4387-A              M	132kV Nazibabad at Kotdwar-UPCL (NP-1323-A rep on 091019)
+UA-32    NP------A              M	132kV Saharanpur-1 at Roorkee-UPCL(Line LILO on Laxmi Sagar)
+UA-54    NP-1789-A              M	132kV Saharanpur-1 at Laxmi Sugar Mill(UPCL)
+UA-41    NP-1791-A              M	132kV AmbalaRD(Pilakni)(pre. it connected to Saharanpur-2) at Bhagwanpur-UPCL
+UA-44    NP-1788-A    	  M	132kV Nehtaur-1 at Laksar-UPCL
+UA-42    NP-1782-A              M	132kV Kirtarpur at Manglore-UPCL
+UA-38    NP-1792-A              M	132kV Thakurdwara/Moradabad at Mahuakheraganj(pre Kashipur)-UPCL
+UA-61    NP-8177-A    .3636     M     400kV Roorkee-1 at Kashipur-UPCL
+SP-01    NP-7117-A    .3636     M	400kV Abdullapur at Sorang HEP
+SP-02    NP-8815-A    .3636     C	400kV Abdullapur at Sorang HEP
+SP-03    NP-7034-A    .3636     M	400kV Karcham at Sorang HEP
+SP-04    NP-8816-A    .3636     C	400kV Karcham at Sorang HEP
+SP-05    NP-8827-A    .3636     S	GT-1 at Sorang HEP
+SP-06    NP-8814-A    .3636     S	GT-2 at Sorang HEP
+ER-03    NP-6018-B    	  S	132 kV Sahupuri-2 at Karamnasa-ER	
+ER-05    ER-1287-A    	  S	132 kV Rihand HPS at NPGC(BSPTCL)-ER	
+ER-14    NP------A    .3636     M	400 kV Balia-2 at Barh(NTPC)-ER(Ckt reconnected to Patna) 
+ER-15    NP------A    .3636     M	400 kV Balia-1 at Barh(NTPC)-ER(Ckt reconnected to Patna)
+ER-47    ER-1165-A    .3636     M	400 kV Gorakhpur-1 at Motihari(DMTCL)-ER[Gkp(NR)-Barh(ER) LILO at Motihari(ER)](now circuit is direct to Barh)
+ER-48    ER-1242-A    .3636     M	400 kV Gorakhpur-2 at Motihari(DMTCL)-ER[Gkp(NR)-Motihari(ER) LILO at Barh(ER)](now circuit is direct to Barh)
+NR-67    NP-6101-A    .3636	  M	400 kV Sarnath at Sasaram-PG 
+ER-24    NP-7414-A    .3636	  S	400 kV Biharsarif-3 at Sasaram-PG
+ER-31    NP------A    .3636	  S	400 kV Biharsarif-4 at Sasaram-PG
+ER-16    NP------A    .3636	  S	400 kV Balia at Sasaram-PG
+ER-28    NP-3844-A    .5454	  S	765 kV Fatehpur(PG) at Sasaram-PG
+ER-42    NP-7468-A    .3636	  S	400 kV Sarnath at Sasaram-PG
+WR-34    NP------A    .3636     M	400kV Rihand-3 at VSTPS-WR(Earlier this was 400kV Vindhyachal-Sasan)
+WR-35    NP------A    .3636     C	400kV Rihand-3 at VSTPS-WR
+WR-08    NP------A              S	220 kV Kota feeder at Ujjain-WR
+WR-09    NP------A              S	220 kV Morak feeder at Ujjain-WR
+WR-10    NP-2437-A              S	132 kV R.P. Sagar feeder at Gandhi Sagar-WR
+WR-11    NP-2384-A              S	132 kV RAPS-A feeder at Gandhi Sagar-WR
+WR-13    NP------A    .3636     M	400 kV Agra-I feeder at Gwalior S/S-WR
+WR-16    NP------A    .3636     M	400 kV Agra-II feeder at Gwalior S/S-WR
+WR-19    NP-2717-A              M	132 kV Lalitpur at Rajghat-WR -sem INSTALLED ON 04.10.2010
+WR-32    NP-2940-A              M	132 kV Anpara at Morwa
+WR-33    NP-2941-A              M	132 kV Bina at Morwa
+WR-44    NP-9152-A    .3636     M	400kV AC SIDE OF Conv. Trf.of HVDC-Pole-I at Champa
+WR-45    NP-9153-A    .3636     M	400kV AC SIDE OF Conv. Trf.of HVDC-Pole-II at Champa
+NE-03    NP-9061-A    .3636     M	400kV AC SIDE OF Conv. Trf.of HVDC-Pole-I at BNC AC
+NE-04    NP-9089-A    .3636     M	400/132/33 kV ICT-I (Auxiliary Consumption of HVDC-Pole-I) at BNC AC
+NE-05    NP-7601-A    .3636     M	400kV AC SIDE CONV. TRF OF BNC -TIE BAY-I
+NE-06    NP-5798-A    .3636     M	400kV AC SIDE OF Conv. Trf.of HVDC-Pole-II at BNC AC
+NE-07    NP-6854-A    .3636     M	400kV AC SIDE CONV. TRF OF BNC -TIE BAY-II
+FR-01    NP-2933-A    .3636     M	400 kV Mharani Bagh ICT-1
+KO-16    NP-2465-A    .3636     M	400 kV Vindhyachal line-1 at Korba STPS
+EH-01    SF-0002-A    	  	  M	11 kV Ganguwal-Nainadevi
+EH-05    SF-0004-A    	  	  M	Irrigation wing consumption at Dehar from HP
+EP-01    SF-0005-A    	  	  M	11 kV Kotla-Kiratpur Sahib
+EP-02    SF-0006-A    	  	  M	11 kV Ganguwal-AnandpurSahib& ASHP
+EP-03    SF-0007-A    	 	  M	Irrigation wing consumption at Bhakra from Punjab
+EP-07    SF-0008-A    		  M	Irrigation wing consumption at Talwara from Punjab
+ET-12    SF-0010-A    		  M     Drawal by UP from Uttaranchal at 66, 33 and 11 kV
+EN-01    SF-0012-A    		  M     NFL Consumption From Punjab
+IB-01    SF-0015-A    		  M     Irrigation wing consumption at Bhakra from the plant itself
+IP-01    SF-0016-A    		  M     Irrigation wing consumption at Pong from the plant itself
+RE-41    NR-3649-A          S	 220kV Bhadla_PG-MSUPPL at MSUPPL
+
+NO OF LOCATIONS - DATA NOT RECEIVED - 250
+

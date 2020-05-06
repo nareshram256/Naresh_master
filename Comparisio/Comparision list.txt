@@ -1,0 +1,290 @@
+ TA-12       NR-3793-A     3000     3636.3636     C	400 kV Basti-2 at Tanda Stage-2
+
+ TA-15       NR-3793-A     500      3636.3636     S	400 KV Side of ST-3 at Tanda Stage-2 (NR-4369-A rep on 180420)
+
+ RA-48       NR-3754-A     600      2000          S	220 KV RAP C  at RAPS-B Tie Line-2
+
+ NG-74       NR-4395-A     2000     6954.5454	  S	MEERUT-I AT KOTESSHWAR POOLING(PG)
+
+ PG-56       NR-4314-A     2000     6954.5454	  L	765 KV ICT-4 AT KOTESSHWAR POOLING(PG)
+
+ BB-03       NR-3226-A     800      2000          M	220kV Panipat(T)-3 at Panipat-BBMB (NR-3459-A rep on 141119)
+
+ BB-04       NP-7079-A     1200     2000          M	220kV Panipat(T)-4 at Panipat-BBMB
+
+ BB-05       NP-1413-A     300      2000          M	220/132kV T/F-1(220 kV) at Panipat-BBMB
+
+ BB-06       NP-6583-A     300      2000          M	220/132kV T/F-2(220 kV) at Panipat-BBMB (NP-1414-A rep on 06.04.19)
+
+ NS-71       NR-3478-A     2000     3636.3636     L	400 kV Chamba-PG-2 at Jallandhar-PG (NP-6583-A replaced on 010918)
+
+ NS-71       NR-3478-A     2000     3636.3636     L	400 kV Chamba-PG-2 at Jallandhar-PG (NP-6583-A replaced on 010918)
+
+ BB-07       NP-1415-A     150      2000          M	220/33kV T/F-1 (220 kV) at Panipat-BBMB
+
+ BB-08       NP-1416-A     300      2000          M	220/33kV T/F-2 (220 kV) at Panipat-BBMB
+
+ BB-09       NP-1417-A     1200     2000          S	ICT-1(220 kV) at Panipat-BBMB
+
+ BB-10       NP-8813-A     1200     2000          S	ICT-2 (220 kV) at Panipat-BBMB
+
+ BB-70       NR-3230-A     1200     3636.3636     S	ICT-1(400 kV) at Panipat-BBMB 
+
+ BB-71       NP-1900-A     1200     3636.3636     S	ICT-2 (400 kV) at Panipat-BBMB 
+
+ BB-11       NP-7150-A     1200     2000          S	220kV Charkhi Dadri at Panipat-BBMB 
+
+ BB-13       NR-3234-A     1200     2000          S	220kV Dhulkote-2 at Panipat-BBMB 
+
+ BB-14       NP-1422-A     1200     2000          S	220kV Kurukshetra at Panipat-BBMB 
+
+ DL-53       NP-1423-A     1200     2000          S	220kV Narela-1 at Panipat-BBMB 
+
+ DL-54       NR-3458-A     1200     2000          S	220kV Narela-2 at Panipat-BBMB 
+
+ DL-55       NP-1425-A     1200     2000          S	220kV Narela-3 at Panipat-BBMB
+
+ BB-76       NP-8835-A     1200     2000          M	220kV Chajpur(HVPN)-1 at Panipat-BBMB
+
+ BB-77       NP-8836-A     1200     2000          M	220kV Chajpur(HVPN)-2 at Panipat-BBMB
+
+ BB-78       NP-8223-A     1200     2000          S	400kV Panchkula(PG) at Panipat-BBMB  
+
+ BB-30       NP-6669-A     1000     2000          M	220kV Palwal-1 at Samaypur-BBMB 
+
+ BB-31       NP-6606-A     1000     2000          M	220kV Palwal-2 at Samaypur-BBMB
+
+ BB-32       NP-8153-A     1000     2000          M	220kV Badshapur-1 at Samaypur-BBMB 
+
+ BB-33       NP-6683-A     1000     2000          M	220kV Badshapur-2 at Samaypur-BBMB 
+
+ BB-34       NP-8199-A     1000     2000          M	220kV Faridabad GPS-1 at Samaypur-BBMB (NP-6604-A rep on 101219)  
+
+ BB-35       NP-5051-A     1000     2000          M	220kV Faridabad GPS-2 at Samaypur-BBMB 
+
+ BB-66       NP-6695-A     1000     2000          M	220kV Palla-1 at Samaypur-BBMB 
+
+ BB-67       NP-6824-A     1000     2000          M	220kV Palla-2 at Samaypur-BBMB
+
+ BB-36       NP-5346-A     1000     2000          S	220kV Ballabgarh-1 at Samaypur-BBMB
+
+ BB-37       NP-7761-A     1000     2000          S	220kV Ballabgarh-2 at Samaypur-BBMB
+
+ BB-38       NP-8165-A     1000     2000          S	220kV Ballabgarh-3 at Samaypur-BBMB
+
+ BB-39       NP-7708-A     1000     2000          S	220kV C.Dadri at Samaypur-BBMB
+
+ UQ-66       NP-5187-A     1000     2000          M	220kV BTPS   (DTL) at Sec-38 Noida-UPPCL
+
+ UP-07       NP-7700-A     800      2000          M	220kV Roorkee at Muzaffarnagar-UPPCL
+
+ UP-82       NP-6808-A     2000     3636.3636     M	400kV Rishikesh at Muzaffarnagar-UPPCL 
+
+ UP-83       NP-6809-A     2000     3636.3636     M	400kV Meerut at Muzaffarnagar-UPPCL
+
+ UP-11       NP-1895-A     800      2000          M	220kV Khodri-2 at Saharanpur-UPPCL
+
+ UQ-27       NP-7756-A     400      1200          M	132kV Kichcha at Richha-UPPCL
+
+ UQ-22       NP-1294-A     1200     1200          M	132kV Singrauli at Renusagar-RTPS-UPPCL
+
+ UP-90	     NP-7776-A	   2000	    3636.3636     M     400 kV Lucknow(PG)-1 at 400kV Unnao-UPPCL(NP-9920-A replaced on 11.11.2019)
+
+ UP-36       NP-1238-A     2000     3636.3636     M	400kV Kanpur-1 at 400kV Panki-UPPCL  
+
+ UP-37       NP-1274-A     2000     3636.3636     M	400kV Kanpur-2 at 400kV Panki-UPPCL 
+
+ UP-60       NP-1239-A     800      2000          M	220kV Kanpur at 220kV Raniya-UPPCL(Line Knp-Panki-1 LILO at Raniya-UP end) 
+
+ UP-61       NP-1742-A     800      2000          M	220kV Kanpur-2 at 220kV Panki-UPPCL 
+
+ UP-38       NP-1530-A     800      2000          M	220kV Sasaram at Sahupuri-UPPCL 
+
+ UP-40       NP-1529-A     400      1200          M	132kV Karamnasa-2 at Sahupuri-UPPCL 
+
+ UQ-32       NP-1755-A     800      2000          M	220kV NAPS at Sirshi-UPPCL (NAP Moradabad line was LILO at Shirshi)
+
+ UQ-14       NP-1801-A     400      1200          M	132kV Mahuakheraganj(pre Kashipur) at Thakurdwara-UPPCL
+
+ UP-64       NP-1741-A     800      2000          M	220kV Kanpur(PG) at Naubastha-UPPCL  
+
+ UP-71       NP-8056-A     800      2000          M	220kV NAPS at Simbhauli-UPPCL(NP-3062-A replaced on 20.09.2019)
+
+ RJ-15       NP-1291-A     800      2000          M	220kV RAPSB at Udaipur-RVPNL
+
+ RJ-16       NP-7765-A     800      2000          M	220kV Trans. B/C at Udaipur-RVPNL
+
+ RJ-60       NP-8230-A     1000     2000          M     220/132kV ICT-1(220kV)-100MVA,BHEL at S'madhopr-RVPNL
+
+ RJ-67       NP-5410-A     400      2000          M     220/132kV ICT-2(220kV)-100MVA,CGL at S'madhopr-RVPNL
+
+ RH-09	     NP-8242-A     2000	    3636.3636     S	400 kV Sikar-PG-II at Ratangarh-RVPNL
+
+ NB-02	     NR-4474-A     3000	    6954.5454     L	765 kV Chittorgarh(PG)-II at Ajmer-PG(Sync on 25.12.2017)
+
+ NB-03	     NR-4471-A     3000	    3636.3636     S	400 kV Ajmer(Raj)-I at Ajmer-PG(Sync on 25.12.2017)
+
+ NB-04	     NR-4480-A     3000	    3636.3636     S	400 kV Ajmer(Raj)-II at Ajmer-PG(Sync on 25.12.2017)
+
+ NB-07	     NR-4470-A     3000	    3636.3636     L	765/400 kV ICT-1(400 kV side) at Ajmer-PG
+
+ NB-08	     NR-4479-A     3000	    3636.3636     L	765/400 kV ICT-2(400 kV side) at Ajmer-PG
+
+ HY-01       NP-7135-A     600      3636.3636     M	ICT-1 (400 kV) at Sonepat-PG
+
+ HY-02       NP-7077-A     1000     2000          S	ICT-1 (220 kV) at Sonepat-PG
+
+ HY-03       NP-7016-A     600      3636.3636     M	ICT-2 (400 kV) at Sonepat-PG
+
+ HY-04       NP-7130-A     1000     2000          S	ICT-2 (220 kV) at Sonepat-PG
+
+ HY-07       NP-6995-A     2000     3636.3636     L	400 kV Bahadurgarh-I at Sonepat-PG
+
+ HY-08       NP-6625-A     2000     3636.3636     L	400 kV Bahadurgarh-II at Sonepat-PG
+
+ HY-09       NP-7019-A     2000     3636.3636     L	400 kV Kurukshetra-PG-I at Sonepat-PG
+
+ HY-10       NP-7036-A     2000     3636.3636     L	400 kV Kurukshetra-PG-II at Sonepat-PG
+
+ UQ-09	     NP-5192-A	   800	    2000	  S	220kV Bachhrawan at Raibarely-PG
+
+ UQ-10	     NP-5035-A	   800	    2000	  S	220kV CG City at Raibarely-PG
+
+ UQ-12	     NP-5194-A	   600	    2000	  M	220kV side of 220/132 kV ICT-3 at Raibarely-PG
+
+ UQ-13	     NP-6608-A	   1000     1200	  S	132kV side of 220/132 kV ICT-3 at Raibarely-PG
+
+ UQ-18	     NP-5179-A	   600	    2000	  M	220kV side of 220/132 kV ICT-2 at Raibarely-PG
+
+ UQ-19	     NP-5191-A	   1000	    1200	  S	132kV side of 220/132 kV ICT-2 at Raibarely-PG
+
+ UQ-33	     NP-1036-B	   160	    2000	  M	220kV side of 220/132 kV ICT-1 at Raibarely-PG
+
+ UQ-34	     NP-6819-A	   1000	    1200	  S	132kV side of 220/132 kV ICT-1 at Raibarely-PG
+
+ NS-22	     NR-3749-A     2000	    3636.3636	  L	400kV Lucknow-PG-2 at Sohwal-PG (NP-7090-A rep on 071019)
+
+ NS-64	     NR-3739-A     2000	    3636.3636	  L	400kV Lucknow-PG-1 at Sohwal-PG (NP-7721-A rep on 071019)
+
+ NS-23       NR-4609-A     600      3636.3636     M 	ICT-1(400 kV)315MVA at Sohwal-PG		
+
+ NS-24       NR-3709-A     600      3636.3636     M 	ICT-2(400 kV) at Sohwal-PG
+
+ NY-53       NR-3738-A     1600     2000          S 	ICT-1(220 kV) at Sohwal-PG (NP-7722-A rep on 101019)(NR-3743-A replaced on 11.11.2019)
+
+ UA-46	     NP-6785-A     300	    2000          M	ICT-1 (220 kV) at Sitarganj-PG
+
+ UA-47	     NP-6784-A     500	    1200	  S	ICT-1 (132 kV) at Sitarganj-PG
+
+ UA-48	     NP-6786-A     300	    2000          M	ICT-2 (220 kV) at Sitarganj-PG
+
+ UA-49	     NP-6782-A     500	    1200          S	ICT-2 (132 kV) at Sitarganj-PG
+
+ UQ-57       NP-8272-A     2000     3636.3636     S	400kV Mainpuri(PG)-2 at Mainpuri-UPPCL ( NR-4492-A REP ON 030819)
+
+ UP-78       NR-4492-A	   800      2000     	  M	ICT-1 (220 kV) at Mainpuri-PG (NP-5056-A rep on 170819)
+
+ UP-78       NR-4492-A	   800      2000     	  M	ICT-1 (220 kV) at Mainpuri-PG (NP-5056-A rep on 170819)
+
+ UA-67	     NP-5056-A     1000	    2000          M	ICT-3 (220 kV) at Sitarganj-PG (NR-4545-A rep on 031219)
+
+ UP-79       NR-3748-A	   1000     2000     	  S	ICT-2 (220 kV) at Mainpuri-PG (NP-5001-A rep on 170819)
+
+ UP-79       NR-3748-A	   1000     2000     	  S	ICT-2 (220 kV) at Mainpuri-PG (NP-5001-A rep on 170819)
+
+ UA-68	     NP-5001-A     600	    1200          S	ICT-3 (132 kV) at Sitarganj-PG (NR-3604-A  rep on 041219)
+
+ NG-39	     NP-6783-A     500	    2000          S	220 kV Tanakpur at Sitarganj-PG
+
+ NG-40	     NP-5413-A     500	    2000          S	220 kV CB Ganj Bareily at Sitarganj-PG
+
+ NG-59	     NP-6614-A     500	    2000          S	220 KV BAREILLY at Pithoragarh - PG
+
+ NG-60	     NP-8283-A     500	    2000          S	220 KV Dhauliganga at Pithoragarh - PG
+
+ UA-55	     NP-8246-A     500	    2000          M	ICT-1 (220 kV) at Pithoragarh-PG
+
+ UA-56	     NP-8245-A     300	    1200          S	ICT-1 (132 kV) at Pithoragarh-PG
+
+ UA-57	     NP-8247-A     500	    2000          M	ICT-2 (220 kV) at Pithoragarh-PG
+
+ UA-58	     NP-8244-A     300	    1200          S	ICT-2 (132 kV) at Pithoragarh-PG
+
+ NG-45       NP-5352-A     2000     3636.3636     S	400 kV Rishikesh at Roorkee -PG(Meter installed ON 25.03.09,Roorkee-Muzfarnage made LILO)
+
+ NG-46       NP-6687-A     2000     3636.3636     S	400 kV Muzaffarnagar at Roorkee -PG(Meter installed ON 25.03.09,Roorkee-Muzfarnage made LILO)
+
+ UA-50	     NP-6688-A     600      3636.3636     M	ICT-1 (400 kV) at Roorkee-PG 
+
+ UA-51	     NP-6689-A     1000     2000          S 	ICT-1 (220 kV) at Roorkee-PG 
+
+ UA-52	     NP-6690-A     600	    3636.3636     M	ICT-2 (400 kV) at Roorkee-PG 
+
+ UA-53	     NP-6691-A     1000     2000          S 	ICT-2 (220 kV) at Roorkee-PG
+
+ NU-59	     NP-7758-A     2000     3636.3636     S 	400kV Kashipur-II Roorkee-PG
+
+ HY-53       NR-3828-A     2000     3636.3636     M	400 kV Neemrana(PG)-1 at Dhanonda(HVPN)
+
+ HY-54       NR-3826-A     2000     3636.3636     M	400 kV Neemrana(PG)-2 at Dhanonda(HVPN)
+
+ HP-35       NP-7006-A     300      600           S	66 kV Pinjore at Parwanoo-HPSEB
+
+ NG-33       NR-3460-A     2000     3636.3636     L	400 kV Ludhiana at Jallandhar-PG (NP-1603-A REPL ON 010918)
+
+ HP-39       NP-6197-A     2000     2000          S	220 kV Nalagarh PG-1 at HPSEB Nangal
+
+ HP-40       NP-7094-A     2000     2000          S	220 kV Nalagarh PG-2 at HPSEB Nangal
+
+ PU-37       NP-1687-A     600      1200          M	132 kV Kotla-1 at Ropar-PSEB 
+
+ PU-38       NP-1886-A     600      1200          M	132 kV Kotla-2 at Ropar-PSEB
+
+ GW-02       NP-6975-A     300      1200          M	GT-2(132 kV) at Ganguwal HPS (NR-3428-A  rep on 080419)NR-3315-A replaced on 06.05.2019)
+
+ NR-14       NR-3315-A     800      2000          S	ICT-2 (220 kV) at Nalagarh-PG (NP-1629-A rep on 170719)
+
+ NR-14       NR-3315-A     800      2000          S	ICT-2 (220 kV) at Nalagarh-PG (NP-1629-A rep on 170719)
+
+ PU-39       NP-1629-A     600      1200          M	132 kV Kotla-3 at Ropar-PSEB (NP-1685-A  rep on 100619 & NP-1683-A rep on 170719) 
+
+ NR-76       NR-3202-A	   2000     3636.3636     L	400 kV Kaithal at Nalagarh-PG (NP-3165-A rep on 170719 & NR-3310-A rep on 261019)
+
+ NR-76       NR-3202-A	   2000     3636.3636     L	400 kV Kaithal at Nalagarh-PG (NP-3165-A rep on 170719 & NR-3310-A rep on 261019)
+
+ PU-40       NP-3165-A     300      1200          M	132 kV Pinjore-1 at Ropar-PSEB (NP-1689-A rep on 170719) 
+
+ PU-41       NP-1688-A     300      1200          M	132 kV Pinjore-2 at Ropar-PSEB
+
+ PU-42       NP-7023-A     600      1200          M	132 kV Bassi-1 at Shanan-PSEB
+
+ PU-43       NP-1829-A     600      1200          M	132 kV Bassi-2 at Shanan-PSEB 
+
+ HP-27       NP-1830-A     200	    600           M	66 kV Mandi at Shanan-PSEB 
+
+ HP-28       NP-7141-A     100	    300           M	33 kV Paddhar at Shanan-PSEB(11/33 kV ICT)
+
+ PU-63       NP-1811-A     600      2000          S	GT-1 (220 kV) at Ranjitsagar HPS-PSEB 
+
+ PU-64       NP-1812-A     600      2000          S	GT-2 (220 kV) at Ranjitsagar HPS-PSEB 
+
+ PU-65       NP-1813-A     600      2000          S	GT-3 (220 kV) at Ranjitsagar HPS-PSEB 
+
+ PU-66       NP-1814-A     600      2000          S	GT-4 (220 kV) at Ranjitsagar HPS-PSEB 
+
+ PU-77       NP-1676-A     800      2000          M	220 kV Jessore at Ranjitsagar HPS-PSEB 
+
+ PU-78       NP-1816-A     800      2000          M	220 kV Hiranagar-1 at Ranjitsagar HPS-PSEB (sARNA-1)
+
+ PU-79       NP-1817-A     800      2000          M	220 kV Hiranagar-2 at Ranjitsagar HPS-PSEB (sARNA-2)
+
+ UA-45       NP-5409-A     400      1200          M	132kV Pilibhit at Sitarganj-UPCL 
+
+ UA-03       NP-1891-A     800      2000	  M	220 kV Muzaffarnagar at Roorkee-UPCL
+
+ UA-40       NP-1760-A     1600     2000          M	220kV Baikanthpur(Bareilly) at Pantnagar-UPCL
+
+ UA-63       NP-8299-A     2000     3636.3636     M     400kV Alaknanda(GVK)-I at Srinagar-PTCUL 
+
+ UA-64       NP-8114-A     2000     3636.3636     M     400kV Alaknanda(GVK)-II at Srinagar-PTCUL  
+
